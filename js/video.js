@@ -21,10 +21,6 @@ function getJSON(url) {
 var gjson = getJSON(file);
 var obj = JSON.parse(gjson);
 
-console.log(obj['season1'][1]);
-
-var s1ep = ["https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4", "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_30mb.mp4"];
-
 var video = document.getElementById('video');
 var source = document.createElement('source');
 

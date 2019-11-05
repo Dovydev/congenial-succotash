@@ -22,6 +22,7 @@ HTTP server / atom-live-server / upload to website
 ## Built With
 
 * [Atom](https://atom.io/) - The IDE for HTML, CSS & JS
+* [JSON Editor](https://jsoneditoronline.org/) - JSON Structure
 
 ## Authors
 

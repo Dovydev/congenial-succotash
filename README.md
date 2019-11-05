@@ -11,6 +11,8 @@ Exaple of url: http://127.0.0.1:3000/?file=http://127.0.0.1:3000/Charlies.json&s
 
 Breakdown of url: ?file={json file url}&season={season number}&episode={episode number}
 
+Hold the same JSON structure as [This file](https://github.com/Dovydev/congenial-succotash/blob/master/Charlies.json).
+
 ### Prerequisites
 
 Simply you need to be able to run your website.

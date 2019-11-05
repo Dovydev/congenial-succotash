@@ -13,7 +13,7 @@ Breakdown of url: ?file={json file url}&season={season number}&episode={episode 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Simply you need to be able to run your website.
 
 ```
 HTTP server / atom-live-server / upload to website

@@ -8,6 +8,7 @@ Download this project on your HTTP server or atom-live-server.
 Now, configure the JSON file or make your own one.
 
 Exaple of url: http://127.0.0.1:3000/?file=http://127.0.0.1:3000/Charlies.json&season=1&episode=1
+
 Breakdown of url: ?file={json file url}&season={season number}&episode={episode number}
 
 ### Prerequisites
